@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Shashikant Sutar</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on Shashikant Sutar</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ai-Testing</title>
+				<link>http://localhost:1313/tags/ai-testing/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ai-testing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Automation</title>
+				<link>http://localhost:1313/tags/automation/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/automation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bdd</title>
+				<link>http://localhost:1313/tags/bdd/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/bdd/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Claude</title>
+				<link>http://localhost:1313/tags/claude/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/claude/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Igaming</title>
+				<link>http://localhost:1313/tags/igaming/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/igaming/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jenkins</title>
+				<link>http://localhost:1313/tags/jenkins/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jenkins/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Leadership</title>
+				<link>http://localhost:1313/tags/leadership/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/leadership/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mcp</title>
+				<link>http://localhost:1313/tags/mcp/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/mcp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ocr</title>
+				<link>http://localhost:1313/tags/ocr/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ocr/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Playwright</title>
+				<link>http://localhost:1313/tags/playwright/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/playwright/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Test-Management</title>
+				<link>http://localhost:1313/tags/test-management/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/test-management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Typescript</title>
+				<link>http://localhost:1313/tags/typescript/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/typescript/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Websocket</title>
+				<link>http://localhost:1313/tags/websocket/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/websocket/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

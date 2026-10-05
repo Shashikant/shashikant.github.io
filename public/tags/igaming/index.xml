@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Igaming on Shashikant Sutar</title>
+		<link>http://localhost:1313/tags/igaming/</link>
+		<description>Recent content in Igaming on Shashikant Sutar</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/igaming/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Automating HTML5 Canvas Games</title>
+				<link>http://localhost:1313/projects/igaming-testing/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/igaming-testing/</guid>
+				<description>&lt;p&gt;**Problem:** iGaming slot games render on an HTML5 canvas, so there are no DOM elements to locate. Standard Playwright or Selenium locators don&amp;rsquo;t work.&lt;/p&gt;&#xA;&lt;p&gt;**My role:** Designed the approach and rebuilt the framework architecture after the first DOM-based attempt failed.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- OCR (Tesseract.js) with image preprocessing (Sharp) to read on-screen values such as balance and win amounts.&lt;/p&gt;&#xA;&lt;p&gt;- Coordinate-based interaction for spin and bet controls.&lt;/p&gt;&#xA;&lt;p&gt;- WebSocket interception to validate game-server messages independently of what the screen shows.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

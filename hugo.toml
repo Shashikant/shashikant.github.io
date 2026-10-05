@@ -1,0 +1,46 @@
+baseURL = "https://shashikant.github.io/"
+languageCode = "en-us"
+title = "Shashikant Sutar"
+theme = "ananke"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+
+    [params.homeInfoParams]
+    Title = "Shashikant Sutar | QA Lead & Manager | AI/GenAI Testing"
+    Content = "16+ years leading quality for iGaming, retail ERP, e-commerce and manufacturing platforms. I build and lead QA teams and design modern automation frameworks (Playwright, TypeScript, BDD, CI/CD), with a growing focus on AI-assisted testing.\n\nISTQB Foundation · Advanced Test Analyst · Agile Tester · AI Testing"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Shashikant"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shashikant-sutar1603/"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 4
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 5
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

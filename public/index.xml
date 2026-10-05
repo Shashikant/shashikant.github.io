@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Shashikant Sutar</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Shashikant Sutar</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 04 Oct 2026 13:14:55 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:1313/contact/</link>
+				<pubDate>Sun, 04 Oct 2026 13:14:55 +0530</pubDate>
+				<guid>http://localhost:1313/contact/</guid>
+				<description>&lt;p&gt;- Email: &lt;a href=&#34;mailto:svs.sutar@gmail.com&#34;&gt;svs.sutar@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;- LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/shashikant-sutar1603/&#34;&gt;https://www.linkedin.com/in/shashikant-sutar1603/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;- GitHub: &lt;a href=&#34;https://github.com/Shashikant&#34;&gt;https://github.com/Shashikant&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;- Location: Pune, India&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resume</title>
+				<link>http://localhost:1313/resume/</link>
+				<pubDate>Sun, 04 Oct 2026 13:14:43 +0530</pubDate>
+				<guid>http://localhost:1313/resume/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download my resume (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;**Summary:** QA leader with 16+ years across iGaming, ERP, e-commerce and manufacturing; experienced in leading QA teams and designing Playwright/TypeScript automation frameworks.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Experience</title>
+				<link>http://localhost:1313/experience/</link>
+				<pubDate>Sun, 04 Oct 2026 13:14:34 +0530</pubDate>
+				<guid>http://localhost:1313/experience/</guid>
+				<description>&lt;h2 id=&#34;qa-manager--aigenai-testing-lead&#34;&gt;QA Manager | AI/GenAI Testing Lead&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingenuity Gaming, Noida&lt;/strong&gt; · Apr 2025 – Mar 2026 · iGaming&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Defined and owned the end-to-end QA strategy for iGaming products, with a focus on AI/GenAI testing, regulatory compliance and production readiness.&lt;/li&gt;&#xA;&lt;li&gt;Tested autonomous test case generation using AI agents (Claude + MCP servers), validating correctness, coverage and applicability of generated scenarios.&lt;/li&gt;&#xA;&lt;li&gt;Validated AI-driven test healing that repairs broken selectors and assertions.&lt;/li&gt;&#xA;&lt;li&gt;Designed and maintained a Playwright (JavaScript/TypeScript) framework for slot machine games and integrated MCP servers with GitHub Copilot for test orchestration.&lt;/li&gt;&#xA;&lt;li&gt;Built REST API test suites in Postman covering payments, player accounts and game state.&lt;/li&gt;&#xA;&lt;li&gt;Worked with Product, Development, Compliance and Operations to raise release quality standards.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;associate-project-manager-quality-assurance&#34;&gt;Associate Project Manager, Quality Assurance&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Expleo Solutions, Pune&lt;/strong&gt; · Nov 2009 – Mar 2025&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Sun, 04 Oct 2026 13:06:19 +0530</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m a QA leader with 16+ years of experience, based in Pune, India. I started in manual testing and test management, grew into leading a 16-member QA team with direct UK client engagement, and today I&amp;rsquo;m focused on test automation architecture and AI-assisted quality engineering.&lt;/p&gt;&#xA;&lt;p&gt;## &lt;strong&gt;What I do&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;- **Lead QA teams and delivery:** test strategy, planning, estimation, defect governance, and client-facing reporting.&lt;/p&gt;&#xA;&lt;p&gt;- **Design automation frameworks:** Playwright + TypeScript + Cucumber (BDD), Page Object Model, data-driven testing, CI/CD with Jenkins.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Agentic QA: AI-Assisted Test Generation and Failure Analysis</title>
+				<link>http://localhost:1313/projects/agentic-qa-pipeline/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/agentic-qa-pipeline/</guid>
+				<description>&lt;p&gt;**Goal:** Reduce manual effort in writing tests, diagnosing failures, and logging defects.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- Playwright with Page Object Model plus an LLM layer for failure analysis.&lt;/p&gt;&#xA;&lt;p&gt;- MCP-integrated test generation and healing workflow.&lt;/p&gt;&#xA;&lt;p&gt;- Automated Jira defect logging and Git workflow, configured through environment variables rather than hardcoded values.&lt;/p&gt;&#xA;&lt;p&gt;- Runs from VS Code and Jenkins.&lt;/p&gt;&#xA;&lt;p&gt;**Tools:** Playwright, TypeScript, Anthropic SDK / Ollama, MCP, Jira, Jenkins&lt;/p&gt;&#xA;&lt;p&gt;**What I&amp;rsquo;d tell other QA leads:** Use AI to draft and triage, and keep a human in the loop for sign-off.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Automating HTML5 Canvas Games</title>
+				<link>http://localhost:1313/projects/igaming-testing/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/igaming-testing/</guid>
+				<description>&lt;p&gt;**Problem:** iGaming slot games render on an HTML5 canvas, so there are no DOM elements to locate. Standard Playwright or Selenium locators don&amp;rsquo;t work.&lt;/p&gt;&#xA;&lt;p&gt;**My role:** Designed the approach and rebuilt the framework architecture after the first DOM-based attempt failed.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- OCR (Tesseract.js) with image preprocessing (Sharp) to read on-screen values such as balance and win amounts.&lt;/p&gt;&#xA;&lt;p&gt;- Coordinate-based interaction for spin and bet controls.&lt;/p&gt;&#xA;&lt;p&gt;- WebSocket interception to validate game-server messages independently of what the screen shows.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Leading a 16-Member QA Team</title>
+				<link>http://localhost:1313/projects/leadership-and-process/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/leadership-and-process/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; A QA team serving UK iGaming clients, with coordination between onsite (UK) and offshore (India) teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My role:&lt;/strong&gt; Associate Project Manager, Quality Assurance (2023–2025), after progressing through QA Lead.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What I put in place&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Test strategy, quality gates and defect management protocols.&lt;/li&gt;&#xA;&lt;li&gt;Resource planning, timelines and performance metrics for the team.&lt;/li&gt;&#xA;&lt;li&gt;Root-cause analysis and data-driven QA reporting.&lt;/li&gt;&#xA;&lt;li&gt;Mentoring and Agile training for junior and offshore testers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Reduced defect leakage by about 25%.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Playwright &#43; Cucumber BDD Framework</title>
+				<link>http://localhost:1313/projects/automation-architecture/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/automation-architecture/</guid>
+				<description>&lt;p&gt;**Context:** A reusable end-to-end framework to demonstrate UI and API automation on public practice apps (OrangeHRM and Restful-Booker).&lt;/p&gt;&#xA;&lt;p&gt;**My role:** Architect and sole developer.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- Playwright + Cucumber.js BDD with a custom World object to share auth tokens across step definitions.&lt;/p&gt;&#xA;&lt;p&gt;- Excel-driven test data to separate data from logic.&lt;/p&gt;&#xA;&lt;p&gt;- Resilient locators for complex Vue-based forms (label-relative XPath, custom dropdown handling).&lt;/p&gt;&#xA;&lt;p&gt;- Jenkins pipeline with published HTML reports.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on Shashikant Sutar</title>
+		<link>http://localhost:1313/projects/</link>
+		<description>Recent content in Projects on Shashikant Sutar</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Agentic QA: AI-Assisted Test Generation and Failure Analysis</title>
+				<link>http://localhost:1313/projects/agentic-qa-pipeline/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/agentic-qa-pipeline/</guid>
+				<description>&lt;p&gt;**Goal:** Reduce manual effort in writing tests, diagnosing failures, and logging defects.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- Playwright with Page Object Model plus an LLM layer for failure analysis.&lt;/p&gt;&#xA;&lt;p&gt;- MCP-integrated test generation and healing workflow.&lt;/p&gt;&#xA;&lt;p&gt;- Automated Jira defect logging and Git workflow, configured through environment variables rather than hardcoded values.&lt;/p&gt;&#xA;&lt;p&gt;- Runs from VS Code and Jenkins.&lt;/p&gt;&#xA;&lt;p&gt;**Tools:** Playwright, TypeScript, Anthropic SDK / Ollama, MCP, Jira, Jenkins&lt;/p&gt;&#xA;&lt;p&gt;**What I&amp;rsquo;d tell other QA leads:** Use AI to draft and triage, and keep a human in the loop for sign-off.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Automating HTML5 Canvas Games</title>
+				<link>http://localhost:1313/projects/igaming-testing/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/igaming-testing/</guid>
+				<description>&lt;p&gt;**Problem:** iGaming slot games render on an HTML5 canvas, so there are no DOM elements to locate. Standard Playwright or Selenium locators don&amp;rsquo;t work.&lt;/p&gt;&#xA;&lt;p&gt;**My role:** Designed the approach and rebuilt the framework architecture after the first DOM-based attempt failed.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- OCR (Tesseract.js) with image preprocessing (Sharp) to read on-screen values such as balance and win amounts.&lt;/p&gt;&#xA;&lt;p&gt;- Coordinate-based interaction for spin and bet controls.&lt;/p&gt;&#xA;&lt;p&gt;- WebSocket interception to validate game-server messages independently of what the screen shows.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Leading a 16-Member QA Team</title>
+				<link>http://localhost:1313/projects/leadership-and-process/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/leadership-and-process/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; A QA team serving UK iGaming clients, with coordination between onsite (UK) and offshore (India) teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My role:&lt;/strong&gt; Associate Project Manager, Quality Assurance (2023–2025), after progressing through QA Lead.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What I put in place&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Test strategy, quality gates and defect management protocols.&lt;/li&gt;&#xA;&lt;li&gt;Resource planning, timelines and performance metrics for the team.&lt;/li&gt;&#xA;&lt;li&gt;Root-cause analysis and data-driven QA reporting.&lt;/li&gt;&#xA;&lt;li&gt;Mentoring and Agile training for junior and offshore testers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Reduced defect leakage by about 25%.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Playwright &#43; Cucumber BDD Framework</title>
+				<link>http://localhost:1313/projects/automation-architecture/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/automation-architecture/</guid>
+				<description>&lt;p&gt;**Context:** A reusable end-to-end framework to demonstrate UI and API automation on public practice apps (OrangeHRM and Restful-Booker).&lt;/p&gt;&#xA;&lt;p&gt;**My role:** Architect and sole developer.&lt;/p&gt;&#xA;&lt;p&gt;**Approach**&lt;/p&gt;&#xA;&lt;p&gt;- Playwright + Cucumber.js BDD with a custom World object to share auth tokens across step definitions.&lt;/p&gt;&#xA;&lt;p&gt;- Excel-driven test data to separate data from logic.&lt;/p&gt;&#xA;&lt;p&gt;- Resilient locators for complex Vue-based forms (label-relative XPath, custom dropdown handling).&lt;/p&gt;&#xA;&lt;p&gt;- Jenkins pipeline with published HTML reports.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
